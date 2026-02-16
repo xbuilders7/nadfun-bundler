@@ -81,10 +81,6 @@ Add your `PRIVATE_KEY` to the `.env` file so scripts and deployments can sign tr
 
 ![alt text](screenshot.png)
 
-## 📞 Contact Info
-
-### Telegram: [enlomy](https://t.me/enlomy)
-
 ## 🍵 Tip
 
 ### If you are interested in my projects, please [🔗fork](https://github.com/xbuilders7/nadfun-bundler/fork) or give me ⭐star
